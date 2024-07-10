@@ -74,7 +74,7 @@ The provided Solidity code defines a contract named MyContract that demonstrates
         }
         return grade;
     }
-}
+    }
 
 - Firstly the contract defines an enum type named Grade with three possible values: A, B, and F. This enum represents the different grades a student can receive.
 
